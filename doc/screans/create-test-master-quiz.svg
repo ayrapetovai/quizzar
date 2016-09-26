@@ -27,7 +27,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.73245898"
      inkscape:cx="590.60159"
-     inkscape:cy="352.99348"
+     inkscape:cy="407.60405"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -861,5 +861,29 @@
        height="19.113699"
        x="547.27936"
        y="1001.1169" />
+    <g
+       id="g3491"
+       transform="matrix(0.93864306,0,0,0.89267668,-9.4816562,41.395867)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3483"
+         d="m 136.52642,397.03541 13.65264,-10.92212 35.49687,0 15.0179,12.28738 -23.20949,50.51478 -20.47896,0 z"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3485"
+         d="m 135.16115,395.67014 16.38317,9.55685 28.67055,0 19.1137,-6.82632"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3487"
+         d="m 158.37064,448.91545 -5.46105,-43.68846"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3489"
+         d="m 178.84961,403.86173 -2.73053,43.68845"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
   </g>
 </svg>
