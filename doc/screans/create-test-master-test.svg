@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.64973774"
-     inkscape:cx="542.45192"
-     inkscape:cy="200.17822"
+     inkscape:cx="604.01522"
+     inkscape:cy="323.30483"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -63,7 +63,7 @@
          sodipodi:role="line"
          id="tspan3338"
          x="34.285713"
-         y="372.36221">Создания теста</tspan></text>
+         y="372.36221">Создание нового теста</tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-opacity:1"
        id="rect3340"
@@ -225,5 +225,30 @@
          x="67.719627"
          y="980.72784"
          id="tspan3379">верных ответов</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:18.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="361.68439"
+       y="946.16547"
+       id="text3363"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3365"
+         x="361.68439"
+         y="946.16547">Видимость</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-opacity:1"
+       id="rect3367"
+       width="189.30714"
+       height="9.2344952"
+       x="474.03741"
+       y="936.93097" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-opacity:1"
+       id="rect3369"
+       width="13.851743"
+       height="30.781651"
+       x="506.35815"
+       y="927.69647" />
   </g>
 </svg>

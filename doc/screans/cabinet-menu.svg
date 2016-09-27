@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="cabinet.svg">
+   sodipodi:docname="cabinet-menu.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -27,7 +27,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.86780637"
      inkscape:cx="460.60844"
-     inkscape:cy="260.42906"
+     inkscape:cy="398.70875"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -118,7 +118,7 @@
          sodipodi:role="line"
          id="tspan3411"
          x="54.120148"
-         y="501.5481">Избранное</tspan></text>
+         y="501.5481">Закладки</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:18.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -167,46 +167,35 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:18.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="56.464211"
-       y="620.64856"
+       y="642.64856"
        id="text3429"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3431"
          x="56.464211"
-         y="620.64856">Участник</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:18.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="55.311878"
-       y="649.45679"
-       id="text3433"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3435"
-         x="55.311878"
-         y="649.45679">Модератор</tspan></text>
+         y="642.64856">Участник</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:18.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="42.636238"
-       y="692.09302"
+       y="682.09302"
        id="text3437"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3439"
          x="42.636238"
-         y="692.09302">Уведомления</tspan></text>
+         y="682.09302">Уведомления</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:18.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="57.616539"
-       y="595.42987"
+       y="617.42987"
        id="text3441"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3443"
          x="57.616539"
-         y="595.42987">Найти</tspan></text>
+         y="617.42987">Найти</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:18.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -218,5 +207,38 @@
          id="tspan3447"
          x="44.940903"
          y="998.20264">Выйти</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:18.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="57.073532"
+       y="592.58221"
+       id="text3363"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3365"
+         x="57.073532"
+         y="592.58221">Создать/изменить</tspan></text>
+    <g
+       id="g3373"
+       transform="matrix(0.78812934,0,0,0.77599681,48.223422,149.04972)">
+      <ellipse
+         ry="10.061597"
+         rx="10.637763"
+         cy="681.88788"
+         cx="191.28691"
+         id="path3367"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.4664309;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3369"
+         y="688.22565"
+         x="185.52525"
+         style="font-style:normal;font-weight:normal;font-size:18.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="688.22565"
+           x="185.52525"
+           id="tspan3371"
+           sodipodi:role="line">4</tspan></text>
+    </g>
   </g>
 </svg>
