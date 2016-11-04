@@ -1,6 +1,8 @@
 #!/usr/bin/python
 from flask import Flask, jsonify, session
 
+context = ('../ssl/cert.pem', '../ssl/key.pem')
+
 data = {
     'name': 'Artem',
     'command': 'Greatings',
@@ -8,10 +10,12 @@ data = {
 
 app = Flask(__name__)
 
+
 @app.route('/')
 def index():
     session['username'] = data
     return jsonify(data)
+
 
 @app.route('/counter')
 def counter():
@@ -22,4 +26,5 @@ def counter():
 app.secret_key = 'A0Zr98j/3yX R~XHH!jmN]LWX/,?RT'
 
 if __name__ == '__main__':
+    #app.run(debug=True, ssl_context=context)
     app.run(debug=True)
