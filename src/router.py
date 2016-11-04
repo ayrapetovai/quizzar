@@ -1,5 +1,6 @@
 #!/usr/bin/python
 from flask import Flask, jsonify, session
+from flask import send_file, send_from_directory
 
 context = ('../ssl/cert.pem', '../ssl/key.pem')
 
@@ -12,9 +13,18 @@ app = Flask(__name__)
 
 
 @app.route('/')
-def index():
-    session['username'] = data
-    return jsonify(data)
+def root_html():
+    return send_file('static/html/index.html')
+
+
+@app.route('/js/<path:path>')
+def root_js(path):
+    return send_from_directory('static/js', path)
+
+
+@app.route('/css/<path:path>')
+def root_css(path):
+    return send_from_directory('static/css', path)
 
 
 @app.route('/counter')
