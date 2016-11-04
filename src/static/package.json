@@ -1,0 +1,21 @@
+{
+  "name": "quizzar-ui",
+  "version": "0.0.1",
+  "description": "UI for Quzzar",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "keywords": [
+    "tests",
+    "quiz"
+  ],
+  "author": "AyrapetovAI",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "webpack": "^1.13.3",
+    "webpack-dev-server": "^1.16.2"
+  }
+}

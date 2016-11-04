@@ -1,4 +1,5 @@
 #!/usr/bin/python
+
 from flask import Flask, jsonify, session
 from flask import send_file, send_from_directory
 
@@ -37,4 +38,5 @@ app.secret_key = 'A0Zr98j/3yX R~XHH!jmN]LWX/,?RT'
 
 if __name__ == '__main__':
     #app.run(debug=True, ssl_context=context)
+    #app.run(ssl_context=context)
     app.run(debug=True)
